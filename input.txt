@@ -1,0 +1,91 @@
+"aaaa"
+"bbbb"
+{}
+Returns: 4
+
+"aaaa"
+"mmnn"
+{}
+Returns: 50
+
+"aaaa"
+"zzzz"
+{"a a a z", "a a z a", "a z a a", "z a a a", "a z z z", "z a z z", "z z a z", "z z z a"}
+Returns: 8
+
+"aaaa"
+"bbbb"
+{}
+Returns: 4
+
+"aaaa"
+"zzzz"
+{"bz a a a", "a bz a a", "a a bz a", "a a a bz"}
+Returns: -1
+
+"aaaa"
+"zzzz"
+{"cdefghijklmnopqrstuvwxyz a a a", 
+ "a cdefghijklmnopqrstuvwxyz a a", 
+ "a a cdefghijklmnopqrstuvwxyz a", 
+ "a a a cdefghijklmnopqrstuvwxyz"}
+Returns: 6
+
+"aaaa"
+"bbbb"
+{"b b b b"}
+Returns: -1
+
+"zzzz"
+"aaaa"
+{"abcdefghijkl abcdefghijkl abcdefghijkl abcdefghijk",
+ "abcdefghijkl abcdefghijkl abcdefghijkl abcdefghijk",
+ "abcdefghijkl abcdefghijkl abcdefghijkl abcdefghijk",
+ "abcdefghijkl abcdefghijkl abcdefghijkl abcdefghijk",
+ "abcdefghijkl abcdefghijkl abcdefghijkl abcdefghijk",
+ "abcdefghijkl abcdefghijkl abcdefghijkl abcdefghijk",
+ "abcdefghijkl abcdefghijkl abcdefghijkl abcdefghijk",
+ "abcdefghijkl abcdefghijkl abcdefghijkl abcdefghijk",
+ "abcdefghijkl abcdefghijkl abcdefghijkl abcdefghijk",
+ "abcdefghijkl abcdefghijkl abcdefghijkl abcdefghijk",
+ "abcdefghijkl abcdefghijkl abcdefghijkl abcdefghijk",
+ "abcdefghijkl abcdefghijkl abcdefghijkl abcdefghijk",
+ "abcdefghijkl abcdefghijkl abcdefghijkl abcdefghijk",
+ "abcdefghijkl abcdefghijkl abcdefghijkl abcdefghijk",
+ "abcdefghijkl abcdefghijkl abcdefghijkl abcdefghijk",
+ "abcdefghijkl abcdefghijkl abcdefghijkl abcdefghijk",
+ "abcdefghijkl abcdefghijkl abcdefghijkl abcdefghijk",
+ "abcdefghijkl abcdefghijkl abcdefghijkl abcdefghijk",
+ "abcdefghijkl abcdefghijkl abcdefghijkl abcdefghijk",
+ "abcdefghijkl abcdefghijkl abcdefghijkl abcdefghijk",
+ "abcdefghijkl abcdefghijkl abcdefghijkl abcdefghijk",
+ "abcdefghijkl abcdefghijkl abcdefghijkl abcdefghijk",
+ "abcdefghijkl abcdefghijkl abcdefghijkl abcdefghijk",
+ "abcdefghijkl abcdefghijkl abcdefghijkl abcdefghijk",
+ "abcdefghijkl abcdefghijkl abcdefghijkl abcdefghijk",
+ "abcdefghijkl abcdefghijkl abcdefghijkl abcdefghijk",
+ "abcdefghijkl abcdefghijkl abcdefghijkl abcdefghijk",
+ "abcdefghijkl abcdefghijkl abcdefghijkl abcdefghijk",
+ "abcdefghijkl abcdefghijkl abcdefghijkl abcdefghijk",
+ "abcdefghijkl abcdefghijkl abcdefghijkl abcdefghijk",
+ "abcdefghijkl abcdefghijkl abcdefghijkl abcdefghijk",
+ "abcdefghijkl abcdefghijkl abcdefghijkl abcdefghijk",
+ "abcdefghijkl abcdefghijkl abcdefghijkl abcdefghijk",
+ "abcdefghijkl abcdefghijkl abcdefghijkl abcdefghijk",
+ "abcdefghijkl abcdefghijkl abcdefghijkl abcdefghijk",
+ "abcdefghijkl abcdefghijkl abcdefghijkl abcdefghijk",
+ "abcdefghijkl abcdefghijkl abcdefghijkl abcdefghijk",
+ "abcdefghijkl abcdefghijkl abcdefghijkl abcdefghijk",
+ "abcdefghijkl abcdefghijkl abcdefghijkl abcdefghijk",
+ "abcdefghijkl abcdefghijkl abcdefghijkl abcdefghijk",
+ "abcdefghijkl abcdefghijkl abcdefghijkl abcdefghijk",
+ "abcdefghijkl abcdefghijkl abcdefghijkl abcdefghijk",
+ "abcdefghijkl abcdefghijkl abcdefghijkl abcdefghijk",
+ "abcdefghijkl abcdefghijkl abcdefghijkl abcdefghijk",
+ "abcdefghijkl abcdefghijkl abcdefghijkl abcdefghijk",
+ "abcdefghijkl abcdefghijkl abcdefghijkl abcdefghijk",
+ "abcdefghijkl abcdefghijkl abcdefghijkl abcdefghijk",
+ "abcdefghijkl abcdefghijkl abcdefghijkl abcdefghijk",
+ "abcdefghijkl abcdefghijkl abcdefghijkl abcdefghijk",
+ "abcdefghijkl abcdefghijkl abcdefghijkl abcdefghijk"}
+Returns: -1
